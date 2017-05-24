@@ -1,7 +1,4 @@
 #Created by Nicholas Leer
-#
-
-
 
 #!/usr/bin/env python
 # encoding: utf-8
